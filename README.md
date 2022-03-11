@@ -23,11 +23,11 @@ To clone the application, copy and paste any of the commands below to your machi
 
 #### If your Git is setup for:
 
-##### SSH
-
-> git clone git@github.com:codefreak13/keleya-pregnancy-app.git
-
 ##### HTTPS
+
+> git clone https://github.com/codefreak13/IMDB-Movies-Search.git
+
+##### SSH
 
 > git clone git@github.com:codefreak13/IMDB-Movies-Search.git
 ##
