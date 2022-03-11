@@ -29,7 +29,7 @@ To clone the application, copy and paste any of the commands below to your machi
 
 ##### HTTPS
 
-> git clone https://github.com/codefreak13/keleya-pregnancy-app.git
+> git clone git@github.com:codefreak13/IMDB-Movies-Search.git
 ##
 
 After cloning the app, open the app folder with your favourite IDE or code editor and install node modules with the command below
